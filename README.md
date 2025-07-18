@@ -20,7 +20,9 @@ What are my interests?
 - 🤔 I’m looking for help with mastering offensive security and reverse engineering techniques.
 - 💬 Ask me about Linux, backend development, or how to break things securely. 😄
 -->
-Here are some skills I've learned over time.
+  
+<h3 align="left">Here are some skills I've learned over time.</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=java,linux,mint,bash,kali,cpp,debian,github,git,mysql,sqlite,py,ruby,vscode&theme=dark)](https://skillicons.dev)
 
 
