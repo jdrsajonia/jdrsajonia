@@ -6,25 +6,29 @@
 ![wallpaper](img/linuxwallpaper2.png)
 
 
-<!--
-**jdrsajonia/jdrsajonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Juan Diego Rozo, alias **jdrsajonia**. I'm a Computer Engineer student from `Universidad Nacional de Colombia`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+What are my interests?
+
+- 🔭 I’m currently working on developing my skills in cybersecurity. For now, I'm learning on my own.
+	-Things will get better-.
+- 🌱 I’m currently learning about pentesting, computer networks, and reverse engineering.
+- 🤖 I'm also exploring the world of artificial intelligence and its intersection with security.
+- 🎓 I'm a Computer Science & Engineering student at Universidad Nacional de Colombia.
+- 👯 I’m looking to collaborate on cybersecurity and AI-related projects.
+- 🤔 I’m looking for help with mastering offensive security and reverse engineering techniques.
+- 💬 Ask me about Linux, backend development, or how to break things securely. 😄
 -->
+Here are some skills I've learned over time.
+[![My Skills](https://skillicons.dev/icons?i=java,linux,mint,bash,kali,cpp,debian,github,git,mysql,sqlite,py,ruby,vscode&theme=dark)](https://skillicons.dev)
+
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,linux,mint,bash,kali,cpp,debian,github,git,mysql,sqlite,py,ruby,vscode&theme=dark)](https://skillicons.dev)
+
 
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
